@@ -23,4 +23,4 @@ The complete architecture follows these stages:
 
 Operational Database (OLTP) sales(database)-- [Extract] ->Staging Layer --[Transformation] --> Core Data Warehouse Layer --[Dimension Tables & Fact Tables] --> Analytics / BI Tools / Data Scientists
 
-![Data Warehouse Flowchart](Datawarehouse&modelling%20Flowchart.png)
+![Data Warehouse Flowchart](DE%20DWDM.drawio.png)
