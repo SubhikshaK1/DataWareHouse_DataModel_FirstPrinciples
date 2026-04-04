@@ -1,5 +1,7 @@
 # DataWareHouse_DataModel_FirstPrinciples
-Fundamentals of Data Warehousing and Data modelling <br>
+<h1>Fundamentals of Data Warehousing and Data modelling </h1>
+
+<br>
 <b>Introduction</b>
 Modern organizations run multiple operational systems such as:<br>
 - E-commerce platforms
