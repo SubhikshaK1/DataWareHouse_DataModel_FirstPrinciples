@@ -79,6 +79,7 @@ Operational Database (OLTP) sales(database)-- [Extract] ->Staging Layer --[Trans
     </ul>
     <h3>2. Decoupled ETL Pipeline</h3>
     <p>I implemented a structured <a href="https://github.com/SubhikshaK1/DataWareHouse_DataModel_FirstPrinciples/blob/main/DE%20DWDM.drawio.png">ETL flow</a> that separates extraction from transformation. This means if a source system fails, the rest of the warehouse remains functional and provides historical data, ensuring <strong>Business Continuity</strong>.</p>
+    <img width="1839" height="1759" alt="ETL" src="https://github.com/user-attachments/assets/aafd017d-153f-4ba8-8011-f1adadeb4ae7" />
     <hr>
     <h2>🛠️ Tech Stack & Implementation</h2>
     <ul>
